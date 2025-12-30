@@ -22,12 +22,12 @@ Primary purpose: demo registering a simple tool (open_webpage) and invoking an L
 
 ---
 
-## Quick setup (recommended)
+## Quick setup
 
 ```bash
 # create + activate venv (Linux/macOS)
 python -m venv .venv
-source .venv/bin/activate
+source .venv/bin/activate   OR  Conda activate VENV
 
 
 pip install -r requirement.txt
